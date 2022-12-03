@@ -1,0 +1,14 @@
+__ignore__
+_background_
+T-Shirt
+Curve_Hem
+Elbow_Sleeve
+Flat_Bottom
+Long_Sleeve
+Polo
+Round_Collar
+Short_Sleeve
+Sleeveless
+Square_Collar
+Three-quarter_Sleeve
+V_Collar

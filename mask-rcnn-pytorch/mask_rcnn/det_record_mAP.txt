@@ -1,0 +1,27 @@
+COCO results:
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.656
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.851
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.734
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.620
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.678
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.592
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.725
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.725
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.659
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.752
+
+mAP(IoU=0.5) for each category:
+ T-Shirt        : 0.9312931293129311
+ Curve_Hem      : 0.29416941694169413
+ Elbow_Sleeve   : 0.8148514851485152
+ Flat_Bottom    : 0.7833407090411351
+ Long_Sleeve    : 1.0
+ Polo           : 1.0
+ Round_Collar   : 0.9122091775741042
+ Short_Sleeve   : 0.9828879778321531
+ Sleeveless     : 0.6817538896746818
+ Square_Collar  : 0.9999999999999999
+ Three-quarter_Sleeve: 0.8712871287128713
+ V_Collar       : 0.9422442244224424

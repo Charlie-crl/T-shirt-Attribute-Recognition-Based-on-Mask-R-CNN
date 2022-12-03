@@ -1,0 +1,2 @@
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pycocotools
+python labelme2coco.py train train --labels labels.txt
